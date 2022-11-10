@@ -8,6 +8,9 @@ https://app.powerbi.com/links/dtoKntAPo8?ctid=331c86e7-d032-436f-bc53-f2552d0310
 ## How to Navigate the Report
 The report uses a hamburger Menu (It can be expanded and hidden) for navigation.
 Below is a screenshot of how to use it.
-![image](https://user-images.githubusercontent.com/56234654/201096623-a25ece3d-3fcc-441a-858a-affd91d56701.png)
+
+#### Click Here to Show the Menu
 ![image](https://user-images.githubusercontent.com/56234654/201096636-1d94436e-7b25-4878-9a9f-f8c56783bdc4.png)
+
+#### Click Here to Hide the menu
 ![image](https://user-images.githubusercontent.com/56234654/201096653-85812215-0b87-4de7-b51d-ef54b35a5842.png)
