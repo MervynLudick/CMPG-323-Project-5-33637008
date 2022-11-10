@@ -14,3 +14,8 @@ Below is a screenshot of how to use it.
 
 #### Click Here to Hide the menu
 ![image](https://user-images.githubusercontent.com/56234654/201096653-85812215-0b87-4de7-b51d-ef54b35a5842.png)
+
+## Filtering
+Filtering can be applied page wide using the filter section that can be found to the right of the screen, see the below screenshot.
+
+![image](https://user-images.githubusercontent.com/56234654/201097848-f3bb9fa1-7dfc-4fad-b6a7-f57657d33653.png)
