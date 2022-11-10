@@ -19,3 +19,9 @@ Below is a screenshot of how to use it.
 Filtering can be applied page wide using the filter section that can be found to the right of the screen, see the below screenshot.
 
 ![image](https://user-images.githubusercontent.com/56234654/201097848-f3bb9fa1-7dfc-4fad-b6a7-f57657d33653.png)
+
+## EXTRAS
+Some Extra features I added
+1. Hamburger Menu
+2. Advanced Date filters
+3. Calculated Fields
